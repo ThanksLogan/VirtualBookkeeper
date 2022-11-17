@@ -6,8 +6,8 @@ from collections import defaultdict
 print("...program starting...                                       :)")
 #Dee is the variable name of our workbook
 #Dee = load_workbook('arg1')
-df = pd.read_excel(book.xlsx)
-df = pd.read_excel('C:\\\project\\DogsittingBook.xlsx') 
+
+df = pd.read_excel('C:\\project\\DogsittingBook.xlsx') 
 
 class HashTable:
 
