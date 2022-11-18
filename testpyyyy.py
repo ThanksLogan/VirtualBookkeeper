@@ -3,7 +3,7 @@
 import pandas as pd
 import numpy as np
 from collections import defaultdict
-print("Hello my ninja ")
+
 #Dee is the variable name of our workbook
 #Dee = load_workbook('arg1')
 
