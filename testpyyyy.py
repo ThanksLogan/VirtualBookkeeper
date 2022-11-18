@@ -1,4 +1,4 @@
-#this is the file for my shii cuhhh
+
 #from pyxll import xl_func
 import pandas as pd
 import numpy as np
